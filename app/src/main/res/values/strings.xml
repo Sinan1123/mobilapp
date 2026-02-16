@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nefes Alarm</string>
+    <string name="prompt_title">Nefes egzersizine geçelim mi?</string>
+    <string name="notification_channel_name">Nefes Alarm Kanalı</string>
+    <string name="notification_title">Nefes Alarm</string>
+    <string name="notification_desc">444 veya 478 egzersizi başlatmak için dokun</string>
+    <string name="selected_exercise">Seçili egzersiz: %1$s</string>
+    <string name="default_selected_exercise">Seçili egzersiz: 444</string>
+</resources>
